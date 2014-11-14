@@ -1,4 +1,0 @@
-MyResume
-========
-
-Resume
